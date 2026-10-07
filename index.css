@@ -1,0 +1,12 @@
+body{
+    background: rgb(178, 178, 245);
+  color: rgb(6, 5, 108);
+}
+
+#card{
+    background-color: aqua;
+    width: 70% ;
+    margin: 0 auto;
+    text-align: center;
+    padding: 100px;
+}
